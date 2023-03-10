@@ -175,8 +175,8 @@ The sidebar data file uses a specific YAML syntax that you must follow. Follow t
 ```yaml
 entries:
 - title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
+  product: AI/ML Landscape
+  version: 2023-03
   folders:
   - title: Overview
     output: web, pdf
